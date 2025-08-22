@@ -2,8 +2,6 @@
   
   <p align="center">
     <h1>Plots and Visualizations</h1>
-    <br>
-    <br>
     <p>A collection of some materials and plots created to scientific publications</p>
   </p>
 </div>
