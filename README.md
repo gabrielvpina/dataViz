@@ -6,8 +6,11 @@
   </p>
 </div>
 
-# Metagenomics and Viral reports
-From the paper: "Theobroma cacao Virome: Exploring Public RNA-Seq Data for Viral Discovery and Surveillance"
+<p align="center">
+  <h2>Metagenomics and Viral reports</h2>
+<p>From the paper: "Theobroma cacao Virome: Exploring Public RNA-Seq Data for Viral Discovery and Surveillance"</p>
+  </p>
+  <br>
 <p align="center">Available in: https://doi.org/10.3390/v17050624</p>
 
 <p align="center">
