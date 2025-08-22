@@ -6,7 +6,7 @@
   </p>
 </div>
 
-  <h2 align="center">Metagenomics and Viral reports</h2>
+  <h3 align="center">Metagenomics and Viral reports</h3>
   <p align="center">From the paper: "Theobroma cacao Virome: Exploring Public RNA-Seq Data for Viral Discovery and Surveillance"</p>
 
   <br>
