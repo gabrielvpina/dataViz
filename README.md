@@ -6,4 +6,4 @@
   </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/gabrielvpina/dataViz/refs/heads/main/figures/data_report.png" width="850" height="450">
+<img src="https://raw.githubusercontent.com/gabrielvpina/dataViz/refs/heads/main/figures/data_report.png" width="850" height="650">
